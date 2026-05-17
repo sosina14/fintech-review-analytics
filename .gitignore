@@ -1,0 +1,9 @@
+data/
+*.csv
+*.db
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
