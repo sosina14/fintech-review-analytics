@@ -44,6 +44,7 @@ fastjsonschema==2.21.2
 fonttools==4.62.1
 fqdn==1.5.1
 frozendict==2.4.7
+google-play-scraper==1.2.7
 gunicorn==23.0.0
 h11==0.16.0
 httpcore==1.0.9
@@ -52,6 +53,7 @@ hyperlink==21.0.0
 idna==3.11
 Incremental==24.11.0
 inflection==0.5.1
+iniconfig==2.3.0
 ipykernel==7.2.0
 ipython==9.13.0
 ipython_pygments_lexers==1.1.1
@@ -125,6 +127,7 @@ Pygments==2.20.0
 PyJWT==2.9.0
 pyOpenSSL==26.0.0
 pyparsing==3.3.2
+pytest==9.0.3
 python-dateutil==2.9.0.post0
 python-decouple==3.8
 python-dotenv==1.2.2
